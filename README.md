@@ -6,8 +6,8 @@
 
 ### Screenshots
 <div>
-  <img src="./.github/listagem.png" width="900px">
-  <img src="./.github/carrinho.png" width="900px">
+  <img src="./.github/listagem.png" width="400px">
+  <img src="./.github/carrinho.png" width="400px">
 </div>
 
 # :computer: Technologies
@@ -40,5 +40,5 @@ Access API at http://localhost:3333/
 $ yarn install
 
 # Run application
-$ yarn start
+$ yarn android / yarn ios
 ```
