@@ -25,8 +25,12 @@ $ git clone https://github.com/vinicius-masiero/GoMarketplace.git
 
 ### 📦 Run fake API
 
-This project uses a fake API using json-server to list the products. Remember to configure the API url inside the services folder based on the device you are running the app.
+This project uses a fake API using json-server to list the products.
+<br>
+Remember to configure the API url inside the services folder based on the device you are running the app.
+<br>
 If you are running the app using Android Studio AVD: http://10.0.2.2:3333
+<br>
 If you are using the MacOS simulator: http://localhost:3333/
 
 ```bash
